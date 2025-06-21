@@ -11,6 +11,11 @@
 
 ---
 
+## 📽️ Demo Video
+[![JTA-Banking-System Project Demo](https://github.com/chamikathereal/JTA-Banking-System/blob/main/JTA-Banking-System.png)](https://youtu.be/bZokMHj12PA)
+
+---
+
 ## 🗂️ Project Structure
 
 ```
